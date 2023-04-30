@@ -71,7 +71,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "output/100x30mm_square")
+      (outputdirectory "out/100x30mm_square_v1.0")
     )
   )
 
